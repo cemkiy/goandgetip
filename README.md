@@ -1,2 +1,10 @@
-# goandgetip
-Golang Get IP adress with echo
+# Go and Get IP Adress
+Get IP adress with echo
+
+## Usage
+
+```
+$ go run goandgetip.go
+```
+
+And send a get request to "/" url.
